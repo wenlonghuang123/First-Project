@@ -1,3 +1,3 @@
 # First-Project
 
-New Bib learning fist day
+New Bie learning fist day
